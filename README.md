@@ -1,4 +1,4 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruskakimov)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruskakimov&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **ruskakimov/ruskakimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
